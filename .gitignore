@@ -1,0 +1,4 @@
+.venv/
+Weather_For_Students/.venv/
+__pycache__/
+*.py[cod]
